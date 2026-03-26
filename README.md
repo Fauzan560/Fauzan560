@@ -33,5 +33,5 @@ I am a Computer Science student at CMR College of Engineering & Technology, focu
 ### 📫 Let's Connect!
 
 - 🌐 [Portfolio Website](https://fauzan560.github.io/portfolio/)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fauzanali560)
 - ✍️ [LeetCode Profile](https://leetcode.com/fauzan560)
